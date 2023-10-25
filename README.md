@@ -9,7 +9,7 @@ Interfaz de usuario intuitiva: La interfaz de usuario de la aplicación es fáci
 
 Exploración de GIFs populares: Además de la búsqueda, los usuarios pueden navegar por una selección de GIFs populares y tendencias.
 
-Requisitos
+# Requisitos
 Antes de empezar con la aplicación, asegúrate de tener instalados los siguientes componentes:
 
 Node.js - Para ejecutar el entorno de desarrollo.
@@ -25,7 +25,6 @@ Copy code
 cd react-vite-gif-expert
 Instala las dependencias utilizando npm o yarn.
 
-
 Copy code
 npm install
 # o
@@ -36,13 +35,6 @@ Copy code
 npm run dev
 # o
 yarn dev
-La aplicación se ejecutará en http://localhost:3000. ¡Comienza a explorar GIFs de inmediato!
-
-Contribuciones
-Si deseas contribuir a este proyecto, ¡nos encantaría tu ayuda! Siéntete libre de abrir problemas o enviar solicitudes de extracción.
-
-Créditos
-Este proyecto se basa en un curso de React y fue creado con amor por [Tu Nombre].
 
 Licencia
 Este proyecto está bajo la Licencia Pablo Lopez. Consulta el archivo LICENSE para obtener más detalles.
